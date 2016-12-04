@@ -1,0 +1,38 @@
+[Box: ::com.gruita.java.designpattern.state - ::com.gruita.java.designpattern.state::ApartmentRentedState]
+X=225
+Y=40
+
+[Box: ::com.gruita.java.designpattern.state - ::com.gruita.java.designpattern.state::Automat]
+X=840
+Y=40
+
+[Box: ::com.gruita.java.designpattern.state - ::com.gruita.java.designpattern.state::AutomatInterface]
+X=840
+Y=356
+
+[Box: ::com.gruita.java.designpattern.state - ::com.gruita.java.designpattern.state::FullyRentedState]
+X=20
+Y=40
+
+[Box: ::com.gruita.java.designpattern.state - ::com.gruita.java.designpattern.state::GotApplicationState]
+X=635
+Y=40
+
+[Box: ::com.gruita.java.designpattern.state - ::com.gruita.java.designpattern.state::State]
+X=327
+Y=356
+
+[Box: ::com.gruita.java.designpattern.state - ::com.gruita.java.designpattern.state::TestAutomat]
+X=20
+Y=356
+
+[Box: ::com.gruita.java.designpattern.state - ::com.gruita.java.designpattern.state::WaitingState]
+X=430
+Y=40
+
+[Diagram: ::com.gruita.java.designpattern.state]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=0
+
